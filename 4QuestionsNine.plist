@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>head</string>
+	<string>hair</string>
+	<string>nose</string>
+	<string>nail</string>
+	<string>knee</string>
+	<string>limb</string>
+	<string>shin</string>
+	<string>lips</string>
+	<string>ribs</string>
+	<string>pore</string>
+	<string>chin</string>
+	<string>neck</string>
+	<string>back</string>
+	<string>hand</string>
+	<string>skin</string>
+	<string>heel</string>
+	<string>palm</string>
+	<string>bone</string>
+	<string>arms</string>
+	<string>hips</string>
+	<string>pecs</string>
+	<string>ears</string>
+</array>
+</plist>

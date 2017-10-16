@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>lynx</string>
+	<string>lion</string>
+	<string>boar</string>
+	<string>lamb</string>
+	<string>bear</string>
+	<string>goat</string>
+	<string>wolf</string>
+	<string>foal</string>
+	<string>mole</string>
+	<string>harf</string>
+	<string>fawn</string>
+	<string>oyrx</string>
+	<string>ibex</string>
+	<string>eyra</string>
+	<string>gilt</string>
+	<string>mare</string>
+	<string>hart</string>
+	<string>mohr</string>
+	<string>mona</string>
+	<string>roan</string>
+	<string>oxen</string>
+</array>
+</plist>
